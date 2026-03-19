@@ -1,6 +1,6 @@
 ## IGV Browser for Sex-Specific Splicing
 
-**Website:** [https://mcintyre-lab.github.io/igv_4_sex_specific_splicing/](https://bio.rc.ufl.edu/pub/mcintyre/sex_specific_splicing/igv/index.html)
+**Website:** https://bio.rc.ufl.edu/pub/mcintyre/sex_specific_splicing/igv/index.html
 
 ### Tracks
 - **UJCanno:** Transcripts with fully annotated junctions (UJC in the five species annotation)
